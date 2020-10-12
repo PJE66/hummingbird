@@ -15,7 +15,7 @@ The parts needed to build this keyboard are:
 
 <Information on switch types and caps sources to come>
 
-#JLCPCB Settings
+## JLCPCB Settings
 
 THese are the settings I used to order the original PCBs:
   * Layers: 2
