@@ -4,7 +4,7 @@ Hummingbird keyboard using Seeeduino XIAO controller
 The parts needed to build this keyboard are:
 
 * PCBs made from Gerber files supplied - I used JLCPCB, and the TH_XIAO zip file, which currently costs around $10 for five units plus shipping.
-* Seeeduino XIAO modules (https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) which I purchase in packs of three from Amazon for $21.
+* Seeeduino XIAO modules (https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) which I purchase in packs of three from Amazon for $21.99 (https://www.amazon.com/Seeeduino-Smallest-Microcontroller-Interfaces-Compatible/dp/B08745JBRP)
 * 30 Kailk Choc Swithes
 * 30 Choc Keycaps
 * 30 1N4148 SMD Diodes
