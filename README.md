@@ -3,26 +3,34 @@ Hummingbird keyboard using Seeeduino XIAO controller
 
 The parts needed to build this keyboard are:
 
-PCBs made from Gerber files supplied - I used JLCPCB, and the TH_XIAO zip file, which currently costs around $10 for five units plus shipping.
+* PCBs made from Gerber files supplied - I used JLCPCB, and the TH_XIAO zip file, which currently costs around $10 for five units plus shipping.
+* Seeeduino XIAO modules (https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) which I purchase in packs of three from Amazon for $21.
+* 30 Kailk Choc Swithes
+* 30 Choc Keycaps
+* 30 1N4148 SMD Diodes
+* 3D Printed Case
+* USB-C Cable
+
+<Information on switch types and caps sources to come>
 
 #JLCPCB Settings
 
 THese are the settings I used to order the original PCBs:
-  Layers: 2
-  Dimensions: 100x204mm (automatically entered)
-  PCB Qty: 5 (or more)
-  Different Design: 1
-  Delivery Format: Single PCB
-  PCB Thickness: 1.6
-  PCB Color: Black
-  Surface Finish: LeadFree HASL-RoHS (ENIG-RoHS would be better but doubles cost)
-  Copper Weight: 1oz
-  Gold Fingers: No
-  MAterial Type: FR4-Standard Tg 130-140C
-  Confirm Production File: No
-  Flying Probe Test: Fully Test
-  Castellated Holes: No
-  Remove Order Number: No
-  4-Wire Kelvin Test: No
-  Paper between PCBs: No
+  * Layers: 2
+  * Dimensions: 100x204mm (automatically entered)
+  * PCB Qty: 5 (or more)
+  * Different Design: 1
+  * Delivery Format: Single PCB
+  * PCB Thickness: 1.6
+  * PCB Color: Black
+  * Surface Finish: LeadFree HASL-RoHS (ENIG-RoHS would be better but doubles cost)
+  * Copper Weight: 1oz
+  * Gold Fingers: No
+  * MAterial Type: FR4-Standard Tg 130-140C
+  * Confirm Production File: No
+  * Flying Probe Test: Fully Test
+  * Castellated Holes: No
+  * Remove Order Number: No
+  * 4-Wire Kelvin Test: No
+  * Paper between PCBs: No
   
