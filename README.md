@@ -1,7 +1,6 @@
 # hummingbird
 Hummingbird keyboard using Seeeduino XIAO controller
 
-![Hummingbird Keyboard](https://photos.app.goo.gl/fTTURfuFFSbS4Gv97)
 ![Image of PCB](https://github.com/PJE66/hummingbird/blob/main/Images/Hummingbird_Top.png)
 ![XIAO Module](https://images-na.ssl-images-amazon.com/images/I/61GjpRJ1X0L._AC_SL1400_.jpg)
 
